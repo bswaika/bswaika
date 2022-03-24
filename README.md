@@ -1,4 +1,4 @@
-👋 Hi, I’m Baladitya Swaika { @bswaika }
+👋 Hi, I’m Baladitya Swaika - **@bswaika** 
 
 👀 I’m interested in Machine Learning, Data Science, Software Engineering, and Backend Web Development
 
