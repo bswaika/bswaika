@@ -2,7 +2,7 @@
 
 👀 I’m interested in Machine Learning, Data Science, Software Engineering, and Backend Web Development
 
-🌱 I’m currently learning Tensorflow, and Deep Neural Network Architectures
+🌱 I’m currently learning PyTorch, and Natural Language Processing
 
 💞️ I’m looking to collaborate on Data Science, ML and AI projects
 
